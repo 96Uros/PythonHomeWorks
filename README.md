@@ -1,2 +1,0 @@
-# PythonHomeWorks
-PythonHomeWorks[SmartNinja/Course]
