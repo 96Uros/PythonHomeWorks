@@ -39,7 +39,7 @@ def selectDifficulty(): #uporabil dictionary z malo domišlije
 #izbira pogoja
     chose = None
     while chose not in levelSelect:
-        chose = input(colored("Enter number from 1-3 to select difficulty or 4 for exit: ", 'cyan'))
+        chose = input(colored("Enter number from 1-3 to select difficulty or 4 for exit: ", "cyan"))
 #izhod iz programa v primeru uproabe št.4
         if chose == "4":
             print(colored("Bad to hear but you chose Exit.", "light_red"))
